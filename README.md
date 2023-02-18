@@ -36,9 +36,12 @@
 ## 📞 Get in touch
 
 Are you interested in collaboration? I'm up to any inspiring projects. Get in touch with me through the attached links:
+
+<p>
 <a href="https://t.me/whyareyou112">
 <img alt="Mikhail's Telegram" src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram&logoColor=white" />
 </a>
 <a href="mailto:bionixxxd5@gmail.com">
 <img alt="My Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
+</p>
