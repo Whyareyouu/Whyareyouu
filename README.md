@@ -1,3 +1,7 @@
+<a href="https://github.com/Whyareyouu">
+  <img src="" alt="whyareyouu" align="center"/>
+</a>
+
 <h1 align="center">Hi there, I`m Chernov Nikita 💗</h1>
 
 - 📚 I love FrontEnd developing.
