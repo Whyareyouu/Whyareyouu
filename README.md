@@ -1,5 +1,5 @@
 <a href="https://github.com/Whyareyouu">
-  <img src="https://github.com/Whyareyouu/Whyareyouu/blob/main/assets/whyareyou-github_baner.png" alt="whyareyouu" align="center"/>
+  <img src="./assets/whyareyou-github_banner.png" alt="whyareyouu" align="center"/>
 </a>
 
 <h1 align="center">Hi there, I`m Chernov Nikita 💗</h1>
