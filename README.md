@@ -97,7 +97,7 @@
       <br>rt library
     </td>
         <td align="center" width="110" height="90"> 
-      <a href="#whyareyou_stackwhyareyou_stack" >
+      <a href="#whyareyou_stack" >
         <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
       </a>
       <br>storybook
@@ -111,19 +111,19 @@
 <table width='100%'>
   <tr>
    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#whyareyou_stack">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
       </a>
       <br>React JS
     </td>
      <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
+      <a href="#whyareyou_stack" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
  <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
+      <a href="#whyareyou_stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       </a>
       <br>Redux
