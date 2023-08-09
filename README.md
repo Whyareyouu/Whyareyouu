@@ -7,9 +7,6 @@
 - 📚 I love FrontEnd developing.
 - 💻 I love exploring new tech stack and building cool stuffs
 - ✉️ You can shoot me an email at bionixxxd5@gmail.com! I'll try to respond as soon as I can;
-- 📄 Please have a look at
-  my [Resume(En)](https://drive.google.com/file/d/1WQ-SHH4kJgFPMzZmBR9Pnm4n1ovaillh/view?usp=sharing) | [Resume(Ru)](https://drive.google.com/file/d/1YIxE7WY8HkdrvC2De0L0dVrEMusFWp13/view?usp=share_link)
-  for more details about me. I'm open to feedback and suggestions!
 
 <h2 align="left" id="whyareyou-stack">🔥 Tech stack</h2>
 
